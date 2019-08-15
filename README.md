@@ -1,4 +1,4 @@
-# Qualitative Coding with the Lene Fredborg's DocTools Micrososft Word Macro
+# Qualitative Coding with the Lene Fredborg's DocTools Microsoft Word Macro
 
 
 This document details step by step instructions to use Microsoft Word's comment feature to code qualtitative data. These instructions are not detailed, and assume that the reader is comfortable with the basics of using Microsoft software (importing and exporting tables into Excel to and from csv formats) and running Python script locally.
