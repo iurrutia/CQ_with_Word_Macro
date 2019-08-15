@@ -1,7 +1,7 @@
 # Qualitative Coding with the Lene Fredborg's DocTools Microsoft Word Macro
 
 
-This document details step by step instructions to use Microsoft Word's comment feature to code qualtitative data. These instructions are not detailed, and assume that the reader is comfortable with the basics of using Microsoft software (importing and exporting tables into Excel to and from csv formats) and running Python script locally.
+This document details step by step instructions to use Microsoft Word's comment feature to code quantitative data. These instructions are not detailed, and assume that the reader is comfortable with the basics of using Microsoft software (importing and exporting tables into Excel to and from csv formats) and running Python script locally.
 
 This is done by using a modified version of a **macro created by Lene Fredborg, DocTools** - www.thedoctools.com, and some Python code that help to reformat the resulting table.
 
@@ -12,11 +12,11 @@ I used the steps outlined here using Microsoft Word for Mac vs. 16.16.12.
 
 **What is qualitative coding?**
 
-It depends on who you ask! (What their background and theoretical framework is; what type of data they wish to analyze; what their research questions is.) I am partial to Coffey and Atkinson's view (see citation below) on qualtitative coding: Coding is the practice of attaching tags and labels to data. Researchers may choose these tags and labels (or *codes*) based on their research question, their theoretical framework, they may develop their codes iteratively as they examine the data, or through a combination of strategies. 
+It depends on who you ask. (What their background and theoretical framework is; what type of data they wish to analyze; what their research questions is.) I am partial to Coffey and Atkinson's view on quantitative coding: Coding is the practice of attaching tags and labels to data. Researchers may choose these tags and labels (or *codes*) based on their research question, their theoretical framework, they may develop their codes iteratively as they examine the data, or through a combination of strategies. 
 
 Coded data can then be used to link and relate bits of tagged text to each other. Coding and retrieving text allows the qualitative researcher to perform the analytical work of linking, relating, and identifying relevant themes in their data. In short, Coffey and Atkinson view qualitative coding as a supportive tool in qualitative data analysis, rather than  analysis in itself. 
 
-I also tend to use *coding together with memoing* – that is, as I code I note my thoughts in a document of memos. In this memo document, I jot down thoughts that I have as I code (before I forget them) such as patterns that I want to go back and check later, ideas about what some of the central themes in my data might be, etc. Additionally, I take note of the parts of my data that are difficult to code because data that resists being boxed into one category or another is sometimes analytically interesting – data that is resistent to coding can lead to new insights!
+I also tend to use *coding together with memoing* – that is, as I code I note my thoughts in a document of memos. In this memo document, I jot down thoughts that I have as I code (before I forget them) such as patterns that I want to go back and check later, ideas about what some of the central themes in my data might be, etc. Additionally, I take note of the parts of my data that are difficult to code because data that resists being boxed into one category or another is sometimes analytically interesting – data that is resistant to coding can lead to new insights!
 
 Coffey, A., & Atkinson, P. (1996). Concepts and Coding. *In Making Sense of Qualitative Data* (pp. 26–53). Sage Publications.
 
@@ -26,7 +26,7 @@ Coffey, A., & Atkinson, P. (1996). Concepts and Coding. *In Making Sense of Qual
 There are many software options for qualitative coding, but most of these options are expensive!
 Some of the better known ones you might have heard of are [NVivo](https://www.qsrinternational.com/nvivo/home), [MAXQDA](https://www.maxqda.com/) and [Atlas.ti](https://atlasti.com/).
 
-The advantage of coding with Microsoft Word is that if you already own a Microsoft Office licence, then this method costs nothing. Other software options offer some fancy UI options that are not available using Microsoft Word comment coding, such as nested codes. Some people may find it advantageous to organize their codes in levels (e.g. primary codes, secondary codes, terciary codes, etc). Using the macro will result in only one level of codes. However, as we are working with csv files, it is easy enough to add a new column to our table to introduce more structure and organization to our codes. Most other functions that are available in other qualitative software options can be emmulated with basic search functions. If you are working with very large data sets, it might be helpful to write some fancier query functions to look through your data.
+The advantage of coding with Microsoft Word is that if you already own a Microsoft Office licence, then this method costs nothing. Other software options offer some fancy UI options that are not available using Microsoft Word comment coding, such as nested codes. Some people may find it advantageous to organize their codes in levels (e.g. primary codes, secondary codes, tertiary codes, etc). Using the macro will result in only one level of codes. However, as we are working with csv files, it is easy enough to add a new column to our table to introduce more structure and organization to our codes. Most other functions that are available in other qualitative software options can be emulated with basic search functions. If you are working with very large data sets, it might be helpful to write some fancier query functions to look through your data.
 
 
 
@@ -58,7 +58,7 @@ This step will produce a new Word document that contains a table. The table orga
 
 ![](images/MWC_Step_3.2.png)
 
-- Run the macro by selecing the blue triangle ("Run Macro") or by selecting Run > Macro from the menu bar.
+- Run the macro by selecting the blue triangle ("Run Macro") or by selecting Run > Macro from the menu bar.
 
 ![](images/MWC_Step_3.3.png)
 
