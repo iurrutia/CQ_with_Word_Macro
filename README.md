@@ -70,7 +70,7 @@ This step will produce a new Word document that contains a table. The table orga
 
 The table generated in step 3 is nice, but it would be good to be able to sort the table so we could, for example, see all the data tagged with the same code together. We could do this, for example, in Excel. The  problem is that that if we paste the table into Excel, and then try to sort the table by the Code column, we get an error message. This is because the table that the macro separates text with paragraph breaks into different rows. 
 
-[This code](https://github.com/iurrutia/CQ_with_Word_Macro/blob/master/CleaningCSV.ipynb) will clean up the produced as follows:
+[This code](https://github.com/iurrutia/CQ_with_Word_Macro/blob/master/CleaningCSV.py) will clean up the produced as follows:
 
 - Paste your table into Excel.
 
