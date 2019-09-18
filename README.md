@@ -84,7 +84,7 @@ The table generated in step 3 is nice, but it would be good to be able to sort t
 
 ![](images/MWC_Step_4.3.png)
 
-- Run the [Python code](https://github.com/iurrutia/CQ_with_Word_Macro/blob/master/CleaningCSV.ipynb). This code will create a new csv file. 
+- Run the [Python code](https://github.com/iurrutia/CQ_with_Word_Macro/blob/master/CleaningCSV.py). This code will create a new csv file. 
 
 ### 5. Link, relate, and retrieve.
 
