@@ -1,5 +1,6 @@
 # Qualitative Coding with the Lene Fredborg's DocTools Microsoft Word Macro
 
+These notes are aimed at qualitatitive researchers looking for a free alternative to NVivo or Atlas.
 
 This document details step by step instructions to use Microsoft Word's comment feature to code qualititative data. These instructions are not detailed, and assume that the reader is comfortable with the basics of using Microsoft software (importing and exporting tables into Excel to and from csv formats) and running Python script locally.
 
